@@ -9,7 +9,7 @@
 
   <p align="center">
     <h3>Tugas Besar 1 IF2211 Strategi Algoritma</h3>
-    <h4>  Pemanfaatan Algoritma Greedy dalam pembuatan bot </h4>
+    <h4>Application of greedy algorithm in making a bot for Diamonds</h4>
     <br/>
     <!-- IMAGE OR LOGO -->
     <!-- <img src="" alt="Project Logo // Team Picture // etc">
