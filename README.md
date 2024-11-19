@@ -4,11 +4,11 @@
 
 <br />
 <div align="center">
-  <h1 align="center">Tugas Besar 1 IF2211 Strategi Algoritma
+  <h1 align="center">Greedy Diamonds Bot
 </h1>
 
   <p align="center">
-    <h3>Diamonds bot</h3>
+    <h3>Tugas Besar 1 IF2211 Strategi Algoritma</h3>
     <h4>  Pemanfaatan Algoritma Greedy dalam pembuatan bot </h4>
     <br/>
     <!-- IMAGE OR LOGO -->
